@@ -2,5 +2,6 @@
 <resources>
     <color name="colorPrimary">@android:color/holo_blue_bright</color>
     <color name="colorPrimaryDark">@android:color/holo_blue_dark</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="colorButtonPressed">#c0c0c0c0</color>
 </resources>

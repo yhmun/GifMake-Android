@@ -15,7 +15,7 @@ public class SplashActivity extends Activity {
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
-                final Intent mainIntent = new Intent(SplashActivity.this, GifEditorActivity.class);
+                final Intent mainIntent = new Intent(SplashActivity.this, WelcomeActivity.class);
                 SplashActivity.this.startActivity(mainIntent);
                 SplashActivity.this.finish();
             }
